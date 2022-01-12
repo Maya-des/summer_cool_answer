@@ -2,12 +2,12 @@ $(function() {
 
   let fileName1 = [
     // 画像ファイルのフルパスを記載して下さい。外れ
-    'images/special_wrong.jpg',
+    'images/wrong.jpg',
   ]
 
   let fileName2 = [
     // 画像ファイルのフルパスを記載して下さい。正解
-    'images/special_right.jpg',
+    'images/right.jpg',
   ]
 
   let current = 0;
